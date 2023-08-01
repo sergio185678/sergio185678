@@ -1,6 +1,13 @@
 # 💫 About Me:
-I am a university student of Computer Science. My main goal is to polish my skills as a full-stack developer.
+Soy un programador joven y estudiante de Ciencias de la Computación en la UPC, Perú. Con mis 20 años de edad, me encuentro en el tercio superior de mi carrera universitaria, donde la perseverancia y la dedicación son los pilares de mi camino hacia el éxito.
 
+Como programador, me considero una persona inquieta y curiosa, siempre buscando oportunidades para aprender y mejorar mis habilidades. El desarrollo web es mi pasión, y me encanta explorar nuevas tecnologías y tendencias para crear experiencias en línea atractivas y funcionales.
+
+A través de mi educación y proyectos personales, he adquirido conocimientos en lenguajes de programación como HTML, CSS, JavaScript, y estoy en constante crecimiento en el mundo de frameworks como Angular y .Net. Mi objetivo es seguir expandiendo mi conocimiento para llegar a ser un desarrollador web completo y altamente competente.
+
+Además de mi formación técnica, soy una persona con una mentalidad abierta y una actitud positiva ante los desafíos. Me considero aplicado y comprometido con los proyectos en los que trabajo, siempre entregando resultados de alta calidad y respetando los plazos establecidos.
+
+Lo que más me emociona es la oportunidad de colaborar en proyectos desafiantes y significativos. Siempre estoy dispuesto a participar en nuevas ideas y trabajar en equipo para lograr los objetivos comunes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-andres-flores-ñahuis) 
