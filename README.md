@@ -1,13 +1,11 @@
 # 💫 About Me:
-Soy un programador joven y estudiante de Ciencias de la Computación en la UPC, Perú. Con mis 20 años de edad, me encuentro en el tercio superior de mi carrera universitaria, donde la perseverancia y la dedicación son los pilares de mi camino hacia el éxito.
+👨‍💻 Soy un estudiante de Ciencias de la Computación en la UPC, he participado en varios proyectos de manera colaborativa e individual, lo que me ha permitido adquirir experiencia práctica en el desarrollo de software. Mi constante seguimiento de las últimas noticias en diversas tecnologías me ha mantenido actualizado y preparado para enfrentar nuevos desafíos.
 
-Como programador, me considero una persona inquieta y curiosa, siempre buscando oportunidades para aprender y mejorar mis habilidades. El desarrollo web es mi pasión, y me encanta explorar nuevas tecnologías y tendencias para crear experiencias en línea atractivas y funcionales.
+💻 Tengo sólidos conocimientos en tecnologías Frontend, lo que me permite diseñar y desarrollar la interfaz de usuario de aplicaciones de manera óptima. Además, poseo conocimientos generales sobre Programación Orientada a Objetos, junto con familiaridad en diversos patrones de diseño y arquitectura.
 
-A través de mi educación y proyectos personales, he adquirido conocimientos en lenguajes de programación como HTML, CSS, JavaScript, y estoy en constante crecimiento en el mundo de frameworks como Angular y .Net. Mi objetivo es seguir expandiendo mi conocimiento para llegar a ser un desarrollador web completo y altamente competente.
+⚙️ En el ámbito del desarrollo Backend, he construido APIs utilizando la arquitectura REST, dividiendo mis proyectos en Controladores, Servicios, Repositorios y Modelos. Implemento medidas de seguridad como el uso de hash para encriptar datos y JWT para la autenticación. Además, tengo experiencia tanto en consultas SQL directas como en el uso de ORM.
 
-Además de mi formación técnica, soy una persona con una mentalidad abierta y una actitud positiva ante los desafíos. Me considero aplicado y comprometido con los proyectos en los que trabajo, siempre entregando resultados de alta calidad y respetando los plazos establecidos.
-
-Lo que más me emociona es la oportunidad de colaborar en proyectos desafiantes y significativos. Siempre estoy dispuesto a participar en nuevas ideas y trabajar en equipo para lograr los objetivos comunes.
+💡 Estoy entusiasmado por seguir aprendiendo y creciendo en el campo de la tecnología, y estoy abierto a nuevas oportunidades para aplicar mis habilidades y conocimientos.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-andres-flores-ñahuis) 
