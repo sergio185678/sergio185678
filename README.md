@@ -1,4 +1,4 @@
-# Hola, soy Sergio Flores <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm Sergio Flores <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Yo soy un estudiante de la carrera de Ciencias de la Computación en la UPC, he participado en varios proyectos de manera colaborativa e individual, lo que me ha permitido adquirir experiencia práctica en el desarrollo de software. También me mantengo actualizado en diversas tecnologías.
 
