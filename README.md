@@ -1,6 +1,9 @@
 # Hi, I'm Sergio Flores <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Yo soy un estudiante de la carrera de Ciencias de la Computación en la UPC, he participado en varios proyectos de manera colaborativa e individual, lo que me ha permitido adquirir experiencia práctica en el desarrollo de software. También me mantengo actualizado en diversas tecnologías.
+Soy estudiante de Ciencias de la Computación en la UPC, actualmente en el décimo ciclo y ubicado en el tercio superior. Poseo experiencia como practicante en desarrollo web, con un enfoque en tecnologías como React y Node.js. Me apasiona el trabajo colaborativo en proyectos de software, como mi proyecto de tesis DietAsist, y mi participación en IEEE CAS UPC, donde he desarrollado aplicaciones web para diversas asociaciones dentro de IEEE UPC. 
+Mis habilidades técnicas abarcan lenguajes de programación como JavaScript, Java, C#, y Python, así como frameworks y bibliotecas como React, Angular, Spring Boot y .NET. También tengo experiencia con herramientas como Excel, Visual Studio, Power BI, Github, Trello, IntelliJ, SQL y SQL Server
+
+CV: https://my-project-nodejs.vercel.app/api/uploads/Sergio%20Flores%20CV.pdf
 
 ## Social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-andres-flores-ñahuis) 
